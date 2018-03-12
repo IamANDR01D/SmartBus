@@ -1,2 +1,2 @@
 # SmartBus
-My SmartBUs repository.
+My SmartBus repository.
